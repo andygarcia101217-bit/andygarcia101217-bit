@@ -17,7 +17,7 @@ I'm passionate about troubleshooting, Windows administration, Active Directory, 
 <h2>👨‍💻 Information Technology Support Portfolio:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation]([https://github.com/andygarcia101217-bit/osticket-prereqs])
+  - [osTicket: Prerequisites and Installation]([https://github.com/andygarcia101217-bit/osTicket-Prerequisites-and-Installation])
   - [osTicket: Post-Installation Configuration](https://github.com/andygarcia101217-bit/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/andygarcia101217-bit/ticket-lifecycle)
 - <b>Microsoft Azure</b>
