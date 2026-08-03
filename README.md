@@ -23,8 +23,6 @@ I'm passionate about troubleshooting, Windows administration, Active Directory, 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/andygarcia101217-bit/configure-ad)
 
-<h2>🤳Connect with me:</h2>
-
 ## 🤝 Connect With Me
 
 [<img align="left" alt="Andy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
