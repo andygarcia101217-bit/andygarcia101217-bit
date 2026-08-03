@@ -25,6 +25,10 @@ I'm passionate about troubleshooting, Windows administration, Active Directory, 
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Andy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## 🤝 Connect With Me
 
-<a href="https://www.linkedin.com/in/andrew-garcia-b24280297/">IT Professional</a>
+[<img align="left" alt="Andy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br>
+
+[linkedin]: https://www.linkedin.com/in/andrew-garcia-b24280297/
